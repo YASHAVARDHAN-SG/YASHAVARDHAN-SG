@@ -4,6 +4,9 @@
 <h1 align="center">Hi 👋, I'm YASHAVARDHAN SG</h1>
 <h3 align="center">BRAIN STROM STUDENT AND IT GUY </h3>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YASHAVARDHAN-SG&label=Profile%20views&color=0e75b6&style=flat" alt="yashavardhansg" /> </p>
