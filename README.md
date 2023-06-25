@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm YASHAVARDHAN SG</h1>
 <h3 align="center">BRAIN STROM STUDENT AND IT GUY </h3>
-I am a Full Stack Developer  from India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
