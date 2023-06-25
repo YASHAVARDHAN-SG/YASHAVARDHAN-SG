@@ -1,49 +1,32 @@
-### :wave: hey there
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yashavardhan-sg-781594213">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" align="center" />
-  </a>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 
 
-### :woman_technologist: About Me :
-- :telescope:I'm the student studying in at :books:Alvas Insitute of engineering and Technology.
+<h1 align="center">Hi 👋, I'm YASHAVARDHAN SG</h1>
+<h3 align="center">BRAIN STROM STUDENT AND IT GUY </h3>
 
-- :seedling: Exploring Technical techincal Knowledge about C program,java,python,HTML.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi61703&label=Profile%20views&color=0e75b6&style=flat" alt="abhi61703" /> </p>
 
-- :zap: Fun fact I am an Introvert Physically and an Extrovert Virtually :sunglasses::sunglasses:
-  
-- :email: How to reach me yashavardhansg@gmail.com
+- 🔭 I’m currently working on **Android fitnes app  MAD Mini Project**
 
-- :receipt: Ask me about C, Java, , HTML and CSS
+- 🌱 I’m currently learning **Advanced Java,  and Javascript**
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashavardhan-sg-781594213)
-****
+- 💬 Ask me about **C, Java, Python, HTML and CSS**
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YASHAVARDHAN-SG&theme=radical&mode=weekly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-****
+- 📫 How to reach me **yashavardhansg@gmail.com**
 
 
-### :hammer_and_wrench: Languages and Tools :
-<div align="center">
- <a href="https://www.w3schools.com/c/c_intro.php"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-   <a href="https://github.com/YASHAVARDHAN-SG"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-  <a href="https://developer.android.com/studio"/><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android studio" width="40" height="40"/>&nbsp;
-  <a href="https://www.java.com"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- <a href="https://www.w3schools.com/css"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- <a href="https://www.w3schools.com/html"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<a href="https://www.w3schools.com/js"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<a href="https://www.w3schools.com/MySQL/default.asp"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yashavardhan-sg-781594213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashavardhansg" height="30" width="40" /></a>
+<a href="https://instagram.com/_yash_sg_32?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yash_sg_32" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yashavardhan_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashavardhansg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/4al20is041?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashavardhansg" height="30" width="40" /></a>
+<a href="https://leetcode.com/Yashu_32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashavardhansg" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  </p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi61703&" alt="yashavardhansg" /></p>
