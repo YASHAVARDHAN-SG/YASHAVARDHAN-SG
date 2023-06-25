@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm YASHAVARDHAN SG</h1>
 <h3 align="center">BRAIN STROM STUDENT AND IT GUY </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi61703&label=Profile%20views&color=0e75b6&style=flat" alt="abhi61703" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YASHAVARDHAN-SG&label=Profile%20views&color=0e75b6&style=flat" alt="yashavardhansg" /> </p>
 
 - 🔭 I’m currently working on **Android fitnes app  MAD Mini Project**
 
