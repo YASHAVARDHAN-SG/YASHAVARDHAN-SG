@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YASHAVARDHAN-SG&label=Profile%20views&color=0e75b6&style=flat" alt="yashavardhansg" /> </p>
 
-- 🔭 I’m currently working on ** course in for the Full stack Development**
+- 🔭 I’m currently working on **Course in for the Full stack Development**
 
 - 🌱 I’m currently learning **Advanced Java, Data structure and alogithms and Javascript**
 
