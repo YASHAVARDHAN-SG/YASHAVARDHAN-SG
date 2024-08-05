@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Advanced Java, Data structure and alogithms and Javascript**
 
-- 💬 Ask me about **C, Java, Python, HTML and CSS**
+- 💬 Ask me about **C, Java, HTML and CSS**
 
 - 📫 How to reach me **yashavardhansg@gmail.com**
 
